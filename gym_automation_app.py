@@ -16,8 +16,6 @@ st.set_page_config(
 )
 
 TODAY = dt.date.today()
-
-
 # ---------------- THEME ----------------
 st.markdown(
     """
