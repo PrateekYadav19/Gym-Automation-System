@@ -2,7 +2,6 @@ import datetime as dt
 import hashlib
 import html
 import random
-
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
