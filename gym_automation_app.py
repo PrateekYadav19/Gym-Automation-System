@@ -40,7 +40,6 @@ st.markdown(
     background-size: cover;
     color: var(--ink);
 }
-
 .block-container {
     padding-top: 1.4rem;
     padding-bottom: 3rem;
