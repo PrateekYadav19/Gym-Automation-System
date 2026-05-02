@@ -30,7 +30,6 @@ st.markdown(
     --rose: #ff6b6b;
     --green: #76e083;
 }
-
 .stApp {
     background:
         linear-gradient(180deg, rgba(5, 8, 10, 0.72), rgba(5, 8, 10, 0.9)),
