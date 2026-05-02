@@ -43,7 +43,6 @@ st.markdown(
     padding-top: 1.4rem;
     padding-bottom: 3rem;
 }
-
 h1, h2, h3, label, .stMarkdown, .stText, .stCaption {
     color: var(--ink);
 }
