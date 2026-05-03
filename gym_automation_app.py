@@ -254,7 +254,6 @@ button[kind="primary"]:hover {
     font-size: 0.86rem;
     line-height: 1.55;
 }
-
 div[data-testid="stDataFrame"] {
     border: 1px solid var(--line);
     border-radius: 8px;
