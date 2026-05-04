@@ -158,7 +158,6 @@ button[kind="primary"]:hover {
     font-weight: 750;
     padding: 8px 12px;
 }
-
 .glass,
 .plan-card,
 .profile-card {
