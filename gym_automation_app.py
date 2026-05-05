@@ -330,7 +330,6 @@ MEAL_TEMPLATES = {
         "Paneer salad with seeds",
     ],
 }
-
 ACTIVITY_FACTORS = {
     "Desk job": 1.2,
     "Lightly active": 1.375,
