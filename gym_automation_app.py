@@ -222,7 +222,6 @@ button[kind="primary"]:hover {
     font-size: 0.78rem;
     padding: 6px 10px;
 }
-
 .score {
     color: var(--teal);
     font-size: 2.3rem;
