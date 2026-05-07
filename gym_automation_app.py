@@ -67,7 +67,6 @@ section[data-testid="stSidebar"] {
     background: rgba(4, 7, 9, 0.94);
     border-right: 1px solid rgba(255, 255, 255, 0.1);
 }
-
 section[data-testid="stSidebar"] * {
     color: var(--ink);
 }
