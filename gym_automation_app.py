@@ -227,7 +227,6 @@ button[kind="primary"]:hover {
     font-weight: 900;
     line-height: 1;
 }
-
 .score-label {
     color: var(--muted);
     font-size: 0.88rem;
